@@ -123,10 +123,6 @@ export default function Home() {
           </>
         )}
       </div>
-
-      <footer className="mt-auto pt-12 text-slate-400 text-sm font-medium">
-        Built for CDA Students &bull; 2026
-      </footer>
     </main>
   );
 }
